@@ -1,0 +1,17 @@
+service:
+  name: api-test
+  description: api-test
+  baseUrl: /api/test
+  docsBaseUrl: /docs/test
+  apiVersion: 0.0.1
+  appVersion: 0.0.1
+
+server:
+  scheme: http
+  host: 127.0.0.1
+  port: 3000
+  hostname: 127.0.0.1:3000
+  swaggerSchema: http
+
+mongodb:
+  uri: mongodb://127.0.0.1:27017/api-test

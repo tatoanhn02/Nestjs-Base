@@ -1,0 +1,9 @@
+export const CONFIG_SERVER_PORT = 'server.port';
+export const CONFIG_SERVICE_NAME = 'service.name';
+export const CONFIG_SERVICE_DESC = 'service.description';
+export const CONFIG_SERVICE_API_VERSION = 'service.apiVersion';
+export const CONFIG_SERVER_SWAGGER_SCHEMA = 'server.swaggerSchema';
+export const CONFIG_SERVER_HOSTNAME = 'server.hostname';
+export const CONFIG_SERVICE_BASE_URL = 'service.baseUrl';
+export const CONFIG_SERVICE_DOCS_BASE_URL = 'service.docsBaseUrl';
+export const CONFIG_MONGODB_URI = 'mongodb.uri';
